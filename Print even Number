@@ -3,11 +3,9 @@ using namespace std;
 
 int main() {
  
-    int i;
+    /* Run a loop from 2 to 100. */
  
-    /* Run a loop from 1 to 100. */
- 
-    for(i = 1; i <= 100; i++){
+    for(int i = 2; i <= 100; i++){
   
        /* If number is divisible by 2. */
   
